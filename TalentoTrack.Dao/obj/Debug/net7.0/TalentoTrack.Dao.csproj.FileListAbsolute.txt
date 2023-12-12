@@ -1,0 +1,15 @@
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\bin\Debug\net7.0\TalentoTrack.Dao.deps.json
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\bin\Debug\net7.0\TalentoTrack.Dao.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\bin\Debug\net7.0\TalentoTrack.Dao.pdb
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\bin\Debug\net7.0\TalentoTrack.Common.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\bin\Debug\net7.0\TalentoTrack.Common.pdb
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.csproj.AssemblyReference.cache
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.AssemblyInfoInputs.cache
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.AssemblyInfo.cs
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.csproj.CoreCompileInputs.cache
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.csproj.CopyComplete
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\refint\TalentoTrack.Dao.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\TalentoTrack.Dao.pdb
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Dao\obj\Debug\net7.0\ref\TalentoTrack.Dao.dll

@@ -1,0 +1,12 @@
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\bin\Debug\net7.0\TalentoTrack.Services.deps.json
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\bin\Debug\net7.0\TalentoTrack.Services.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\bin\Debug\net7.0\TalentoTrack.Services.pdb
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.csproj.AssemblyReference.cache
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.AssemblyInfoInputs.cache
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.AssemblyInfo.cs
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.csproj.CoreCompileInputs.cache
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\refint\TalentoTrack.Services.dll
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\TalentoTrack.Services.pdb
+C:\Users\91928\Source\Repos\TalentoTrack_API\TalentoTrack.Services\obj\Debug\net7.0\ref\TalentoTrack.Services.dll
